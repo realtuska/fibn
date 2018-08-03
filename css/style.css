@@ -1,0 +1,9 @@
+div {
+    margin:10px 0;
+    padding:10px;
+    border:1px solid black;
+    width:30vw;
+    box-sizing:border-box; 
+}
+div:first-of-type {color:#126a09;}
+div:last-of-type {color:#ff0000;}
